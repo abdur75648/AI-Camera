@@ -64,6 +64,11 @@ outputs/
 *.mp4
 *.git
 
+# Ignore assets
+!assets/
+!assets/aicamera_test_clip.mp4
+!assets/a9JxPqMwTs7VdFnL4oYe.gif
+
 # IDE / Editor specific
 .vscode/
 .idea/
