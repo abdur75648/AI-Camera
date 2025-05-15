@@ -1,0 +1,17 @@
+easydict==1.13
+numpy==1.26.3
+opencv-python==4.11.0.86
+pandas==2.2.3
+pillow==10.2.0
+matplotlib==3.10.3
+pycuda==2025.1
+scipy==1.15.3
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+tqdm==4.67.1
+ultralytics==8.3.134
+ultralytics-thop==2.0.14
+onnx==1.18.0
+onnxruntime-gpu==1.22.0
+protobuf==6.31.0
